@@ -1,7 +1,7 @@
 ---
 title: "Lachlan's Website"
 about:
-  template: jolla
+  template: marquee
   image: yoda.jpg
   links:
     - icon: twitter
